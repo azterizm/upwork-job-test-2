@@ -1,0 +1,86 @@
+[
+	{
+		"id": 1,
+		"name": "Wireless Headphones",
+		"price": 79.99,
+		"category": "Electronics",
+		"image": "https://picsum.photos/seed/headphones/300/300.jpg"
+	},
+	{
+		"id": 2,
+		"name": "Smart Watch",
+		"price": 199.99,
+		"category": "Electronics",
+		"image": "https://picsum.photos/seed/smartwatch/300/300.jpg"
+	},
+	{
+		"id": 3,
+		"name": "Laptop Stand",
+		"price": 49.99,
+		"category": "Electronics",
+		"image": "https://picsum.photos/seed/laptopstand/300/300.jpg"
+	},
+	{
+		"id": 4,
+		"name": "Coffee Maker",
+		"price": 89.99,
+		"category": "Home",
+		"image": "https://picsum.photos/seed/coffeemaker/300/300.jpg"
+	},
+	{
+		"id": 5,
+		"name": "Desk Lamp",
+		"price": 34.99,
+		"category": "Home",
+		"image": "https://picsum.photos/seed/desklamp/300/300.jpg"
+	},
+	{
+		"id": 6,
+		"name": "Throw Pillows (Set of 2)",
+		"price": 29.99,
+		"category": "Home",
+		"image": "https://picsum.photos/seed/pillows/300/300.jpg"
+	},
+	{
+		"id": 7,
+		"name": "Winter Jacket",
+		"price": 129.99,
+		"category": "Apparel",
+		"image": "https://picsum.photos/seed/jacket/300/300.jpg"
+	},
+	{
+		"id": 8,
+		"name": "Running Shoes",
+		"price": 89.99,
+		"category": "Apparel",
+		"image": "https://picsum.photos/seed/shoes/300/300.jpg"
+	},
+	{
+		"id": 9,
+		"name": "Cotton T-Shirt",
+		"price": 24.99,
+		"category": "Apparel",
+		"image": "https://picsum.photos/seed/tshirt/300/300.jpg"
+	},
+	{
+		"id": 10,
+		"name": "Bluetooth Speaker",
+		"price": 59.99,
+		"category": "Electronics",
+		"image": "https://picsum.photos/seed/speaker/300/300.jpg"
+	},
+	{
+		"id": 11,
+		"name": "Kitchen Knife Set",
+		"price": 79.99,
+		"category": "Home",
+		"image": "https://picsum.photos/seed/knives/300/300.jpg"
+	},
+	{
+		"id": 12,
+		"name": "Denim Jeans",
+		"price": 69.99,
+		"category": "Apparel",
+		"image": "https://picsum.photos/seed/jeans/300/300.jpg"
+	}
+]
