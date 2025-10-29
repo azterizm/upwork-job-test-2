@@ -12,4 +12,5 @@ export default defineConfig({
       },
     }),
   ],
+  base:"/upwork-job-test-2"
 })
